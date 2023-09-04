@@ -1,0 +1,46 @@
+[
+    
+    {
+        "id": 1,
+        "categoryName": "Tops",
+        "image": "https://i.ibb.co/DRmY8Jy/topkika.webp"
+       
+    },
+    {
+        "id": 2,
+        "categoryName": "Vestidos",
+        "image": "https://i.ibb.co/G7sDh49/1688436909a882ce7655ff280ee18d05b1d0599ad2-thumbnail-600x.webp"
+       
+    },
+    {
+        "id": 3,
+        "categoryName": "Camisas",
+        "image": "https://i.ibb.co/W6fkQLS/camisanuri.webp" 
+       
+    }, 
+    {
+        "id": 4,
+        "categoryName": "Faldas",
+        "image": "https://i.ibb.co/myJSkZ8/faltachofa.webp"
+    },
+    {
+        "id": 5,
+        "categoryName": "Pantalones",
+        "image": "https://i.ibb.co/2FPZQLB/4879cfade7a84fbc7d77659702c01058.webp"
+    },
+    {
+        "id": 6,
+        "categoryName": "Sweaters",
+        "image": "https://i.ibb.co/3C131Lp/165648081610f5ac88e8ba8ba7a075824ae8f27025-thumbnail-600x.webp"
+    },
+    {
+        "id": 7,
+        "categoryName": "Shorts",
+        "image": "https://i.ibb.co/qYyxcQS/1689657596583da3c42c9cd8d8a13c45bbb069eb8b-thumbnail-600x.webp"
+    },
+    {
+        "id": 8,
+        "categoryName": "Buzos",
+        "image": "https://i.ibb.co/SmJR1XQ/1669258821201e6d5606b3dbf329751e74897292e2-thumbnail-600x.webp"
+    }
+]
