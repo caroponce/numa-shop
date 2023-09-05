@@ -18,11 +18,11 @@
       "requireFullScreen": true,
       "bundleIdentifier": "com.numashop.numashop"
     },
-    "plugins" : [
+    "plugins": [
       [
         "expo-screen-orientation",
         {
-          "initialOrientation" : "DEFAULT"
+          "initialOrientation": "DEFAULT"
         }
       ],
       [
@@ -31,17 +31,24 @@
           "photoPermission": "The app access your photos to let your shares with your contacts"
         }
       ]
-      ],
-      
+    ],
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/IconNuma.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.numashop.numashop"
+      "package": "com.numashop.numashop",
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "14edf5d3-38e2-45dc-a055-fdf0fe610708"
+      }
     }
   }
 }
